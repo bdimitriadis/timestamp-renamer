@@ -25,7 +25,7 @@ Just run rename.py script with python.
 
 ## Authors
 
-* **Blasis Dimitriadis** - *Initial work* - [TimestampFilesRenamer](https://github.com/bdimitriadis/timestamp-renamer)
+* **Vlasios Dimitriadis** - *Initial work* - [TimestampFilesRenamer](https://github.com/bdimitriadis/timestamp-renamer)
 
 
 ## License
